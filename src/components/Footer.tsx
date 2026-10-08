@@ -60,7 +60,7 @@ const Footer: React.FC = () => {
               <div className="flex items-center">
                 <Mail size={18} className="text-innovica-accent mr-2" />
                 <a 
-                  href="mailto:info@innovica.com" 
+                  href="mailto:info@innovica.in" 
                   className="text-innovica-secondary hover:text-innovica-accent transition-colors"
                 >
                   info@innovica.in
