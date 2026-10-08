@@ -63,7 +63,7 @@ const Footer: React.FC = () => {
                   href="mailto:info@innovica.com" 
                   className="text-innovica-secondary hover:text-innovica-accent transition-colors"
                 >
-                  info@innovica.com
+                  info@innovica.in
                 </a>
               </div>
             </div>
